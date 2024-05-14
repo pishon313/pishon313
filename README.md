@@ -1,7 +1,6 @@
 ### Hi there, I'm Sarah Jeong 👋
 
-Jr iOS developer with about 1years work experience. Implementation and maintenance of native mobile application using Objective-C and Swift. Experience in working with iOS frameworks such as UIKit, AVFoundation and working with iOS Library such as Alamofire, Lottie, SDwebimage.
-Furthermore, 3+ years of experience as an administrative assistant in automotive industry which would help to progress and communicate with other departments. 
+Hello! I am an iOS developer with 3 years of experience, proficient in Objective-C, Swift, and SwiftUI. Currently working as a freelancer, I have gained extensive experience through various projects. I am committed to learning the latest technologies and delivering efficient, creative solutions. My goal is to develop intuitive, user-centered apps.
 
 <!--
 **pishon313/pishon313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
