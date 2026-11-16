@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarah Jeong 👋
 
-Hello! I am an iOS developer with 3 years of experience, proficient in Objective-C, Swift, and SwiftUI. Currently working as a freelancer, I have gained extensive experience through various projects. I am committed to learning the latest technologies and delivering efficient, creative solutions. My goal is to develop intuitive, user-centered apps.
+Hi, I’m an iOS engineer who builds and maintains production mobile apps using Swift, SwiftUI, UIKit, and Objective-C. I have owned work across feature development, legacy modernisation, security hardening, API and SDK integrations, and App Store releases. I care about building reliable, intuitive mobile experiences, and I’m currently developing Voxa, an AI-powered speaking practice app that combines speech recognition, audio, and conversational AI.
 
 <!--
 **pishon313/pishon313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
